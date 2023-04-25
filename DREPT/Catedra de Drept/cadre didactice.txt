@@ -13,8 +13,4 @@
 13.Bogdan Iacob
 14.Diana Marinescu
 15.Florin Nistor
-16.Diana Vasile
-17.Andrei Stanescu
-18.Elena Preda
-19.Stefan Munteanu
-20.Cristina Ciobanu
+
